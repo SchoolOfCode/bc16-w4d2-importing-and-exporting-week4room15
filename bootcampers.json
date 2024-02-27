@@ -1,0 +1,21 @@
+[
+  {
+    "firstName": "Rebekah",
+    "lastName": "Anderson",
+    "age": "32",
+    "hasPets": true
+  },
+  {
+    "firstName": "James",
+    "lastName": "Hearn",
+    "age": "28",
+    "hasPets": false
+  },
+  {
+    "firstName": "Jak",
+    "lastName": "Foster",
+    "age": "26",
+    "hasPets": true
+  }
+
+]
